@@ -1,10 +1,8 @@
--- insert troll face, memcorruptv2
 local library = { 
 	flags = { }, 
 	items = { } 
 }
 
--- Services
 local players = game:GetService("Players")
 local uis = game:GetService("UserInputService")
 local runservice = game:GetService("RunService")
